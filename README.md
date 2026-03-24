@@ -41,7 +41,7 @@ TP-Python-Entonova/
 
 1. Cloner le repository
 ```
-git clone https://github.com/username/tp-python-entonova
+git clone https://github.com/pypardoel/tp-python-iae-2026
 ```
 
 2. Installer les dépendances
