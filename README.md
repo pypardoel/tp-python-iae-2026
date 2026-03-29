@@ -30,9 +30,7 @@ TP-Python-Entonova/
 │
 ├── data/ # jeux de données
 ├── notebooks/ # notebooks Jupyter
-├── scripts/ # scripts Python
-├── exercices/ # énoncés des exercices
-└── solutions/ # corrections (optionnel)
+├── introduction/ # contexte exercice
 ```
 
 ---
@@ -41,8 +39,9 @@ TP-Python-Entonova/
 
 1. Cloner le repository
 ```
-git clone https://github.com/username/tp-python-entonova
+git clone https://github.com/pypardoel/tp-python-iae-2026
 ```
+ou télécharger en haut à droite le ZIP (Code -> Download ZIP)
 
 2. Installer les dépendances
 
